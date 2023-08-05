@@ -26,28 +26,28 @@ nav  {
 }
 
 div {
-  padding-top: 1.45em;
+  padding-top: 0.45em;
   text-align: center;
   transform: scale(0.9);
   padding-bottom: 3%;
 }
 
 .pos {
-  padding-top: 1.3em;
+  padding-top: 0.3em;
   padding-left: 14%;
   padding-right: 14%;
   padding-bottom: 0.8%;
 }
 
 .pos2 {
-  padding-top: 1.45em;
+  padding-top: 0.45em;
   padding-left: 27%;
   padding-right: 27%;
   padding-bottom: 0.25%;
 }
 
 .pos3 {
-  padding-top: 1.55em;
+  padding-top: 0.55em;
   padding-left: 23%;
   padding-right: 23%;
   padding-bottom: 1%;
