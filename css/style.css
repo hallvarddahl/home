@@ -36,10 +36,11 @@ div {
   padding-top: 0.3em;
   padding-left: 14%;
   padding-right: 14%;
-  padding-bottom: 0.8%;
+  padding-bottom: 0.5%;
 }
 
 .pos2 {
+  height: 815px;
   padding-top: 0.45em;
   padding-left: 27%;
   padding-right: 27%;
