@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+  background-color: #222222;
+  margin: 0;
+}
+
+nav  {
+  padding-top: 3em;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-home {
+  font-size: 40px;
+  font-family: 'Bebas Neue';
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: 0.5s;
+}
+
+.menu-home:hover {
+  color: #3ee3e6;
+  transform: scale(1.02);
+  letter-spacing: 1.4px;
+}
+
+div {
+  padding-top: 1.45em;
+  text-align: center;
+  transform: scale(0.9);
+  padding-bottom: 3%;
+}
+
+.pos {
+  padding-top: 1.3em;
+  padding-left: 14%;
+  padding-right: 14%;
+  padding-bottom: 0.8%;
+}
+
+.pos2 {
+  padding-top: 1.45em;
+  padding-left: 27%;
+  padding-right: 27%;
+  padding-bottom: 0.25%;
+}
+
+.pos3 {
+  padding-top: 1.55em;
+  padding-left: 23%;
+  padding-right: 23%;
+  padding-bottom: 1%;
+}
+
+.pos4 {
+  scale: 100%;
+}
+
+.uib {
+  width: 34%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.5s;
+}
+
+.uib:hover {
+  transform: scale(1.02);
+  border-radius: 15em;
+} 
+
+.hulen {
+  width: 34%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.5s;
+}
+
+.hulen:hover {
+  transform: scale(1.02);
+  border-radius: 15em;
+} 
+
+.metis {
+  width: 34%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.5s;
+}
+
+.metis:hover {
+  transform: scale(1.02);
+  border-radius: 15em;
+} 
+
+.hordalan {
+  width: 34%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.5s;
+}
+
+.hordalan:hover {
+  transform: scale(1.02);
+  border-radius: 15em;
+} 
+
+.plastihavet {
+  width: 34%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.5s;
+}
+
+.plastihavet:hover {
+  transform: scale(1.02);
+  border-radius: 15em;
+} 
+
+.clubcorona {
+  width: 34%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.5s;
+}
+
+.clubcorona:hover {
+  transform: scale(1.02);
+  border-radius: 15em;
+} 
+
+.trekroneren {
+  width: 34%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.5s;
+}
+
+.trekroneren:hover {
+  transform: scale(1.02);
+  border-radius: 15em;
+}  
+
+.switch {
+  width: 34%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.5s;
+}
+
+.switch:hover {
+  transform: scale(1.02);
+  border-radius: 15em;
+} 
+
+.strobenatt {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.strobenatt:hover {
+  transform: scale(1.04);
+} 
+
+.strangehorizon {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.strangehorizon:hover {
+  transform: scale(1.04);
+} 
+
+.astronautist {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.astronautist:hover {
+  transform: scale(1.04);
+} 
+
+.djevelkult {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.djevelkult:hover {
+  transform: scale(1.04);
+} 
+
+.diskopunk {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.diskopunk:hover {
+  transform: scale(1.04);
+} 
+
+.kanaan {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.kanaan:hover {
+  transform: scale(1.04);
+} 
+
+.metusalem {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.metusalem:hover {
+  transform: scale(1.04);
+} 
+
+.mallgudd {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.mallgudd:hover {
+  transform: scale(1.04);
+} 
+
+.flasker {
+  width: 25.85%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+}
+
+.jagerne {
+  width: 53.3%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+}
+
+.mozart {
+  width: 37.64%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+}
+
+.metisvideo {
+  width: 65.1%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+}
+
+.hordalanvideo {
+  width: 84.5%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+}
+
+.grafikk1 {
+  width: 41.5%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+}
+
+.grafikk2 {
+  width: 41.5%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+}
