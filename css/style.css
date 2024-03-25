@@ -203,20 +203,6 @@ div {
   transform: scale(1.04);
 } 
 
-.djevelkult {
-  width: 20%;
-  padding: 0.025rem;
-  border-style: solid;
-  border-width: 5px;
-  border-color: #222222;
-  transition: 0.3s;
-  cursor: pointer;
-}
-
-.djevelkult:hover {
-  transform: scale(1.04);
-} 
-
 .diskopunk {
   width: 20%;
   padding: 0.025rem;
@@ -245,7 +231,7 @@ div {
   transform: scale(1.04);
 } 
 
-.metusalem {
+.torsdagsrock {
   width: 20%;
   padding: 0.025rem;
   border-style: solid;
@@ -255,11 +241,11 @@ div {
   cursor: pointer;
 }
 
-.metusalem:hover {
+.torsdagsrock:hover {
   transform: scale(1.04);
 } 
 
-.mallgudd {
+.drflex {
   width: 20%;
   padding: 0.025rem;
   border-style: solid;
@@ -269,7 +255,21 @@ div {
   cursor: pointer;
 }
 
-.mallgudd:hover {
+.drflex:hover {
+  transform: scale(1.04);
+} 
+
+.viking_death_trap_exe {
+  width: 20%;
+  padding: 0.025rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #222222;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.viking_death_trap_exe:hover {
   transform: scale(1.04);
 } 
 
